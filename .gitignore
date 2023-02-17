@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# AWS Key Pair Credentials
+.pem
+pem
+.pem/
+KeyPair1.pem
+
 # Distribution / packaging
 .Python
 build/
